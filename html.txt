@@ -1,9 +1,13 @@
 <head>
 	<title> Hello Word </title>
 </head>
+const title = () => {
+
+return(
 <body>
 	<div>
 		<h1> Hi </h1>
 	</div>
 </body>
+)}
 <footter/>
