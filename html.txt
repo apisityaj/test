@@ -1,6 +1,7 @@
 
 const Layout = () => {
-
+	const data = {[id: 1,title:"fee"],[id: 2,title:"lilly"]}
+	console.log(data)
 return (
 	<div>
 		<head>
