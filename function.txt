@@ -1,0 +1,5 @@
+const test = () = >{
+	let one = 1;
+	let two = 2;
+	console.log("sum",one + two);
+}
