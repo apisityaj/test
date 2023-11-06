@@ -3,3 +3,8 @@ const test = () = >{
 	let two = 2;
 	console.log("sum",one + two);
 }
+
+const checkType = () => {
+	let sleep = 123;
+	console.log(type of sleep)
+}
